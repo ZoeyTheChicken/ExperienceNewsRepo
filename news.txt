@@ -1,0 +1,14 @@
+7/30/2023:
+  Chicken Client asks a server for a partnership.
+
+7/29/2023:
+  Creeper SMP is repartnered.
+
+7/28/2023:
+  Creeper SMP's partner is removed.
+
+7/27/2023:
+  Chicken Network fixes 1.8 support bug
+
+7/26/2023:
+  1.8 Support Bug in Chicken Network found. Developers working to fix it.
